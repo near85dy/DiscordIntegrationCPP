@@ -1,0 +1,6 @@
+
+class DiscordRESTCallback
+{
+public:
+	
+};
